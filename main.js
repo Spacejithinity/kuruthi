@@ -32,7 +32,7 @@ var floaties_3 = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': './images/layer_1_1.png',
+		'src': '7059F0E4-682B-4301-9CCA-40A436946D29.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -40,7 +40,7 @@ var layer_list = [
 	},
 	{
 		'image': clouds,
-		'src': './images/layer_2_1.png',
+		'src': '8CE2BA8D-C223-4357-9C39-0648D6C26AC8.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -48,7 +48,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': './images/layer_3_1.png',
+		'src': 'BC52452F-EF48-4222-82BA-9B5B4ACABDF5.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': 'overlay',
@@ -56,7 +56,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_2,
-		'src': './images/layer_4_1.png',
+		'src': 'FAA3CB41-F916-4EBC-87EE-67872F3B1C14.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
 		'blend': 'overlay',
@@ -64,7 +64,7 @@ var layer_list = [
 	},
 	{
 		'image': shadows,
-		'src': './images/layer_5_1.png',
+		'src': '527EE0A1-87FF-4F96-A317-9EF3ABC513A3.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': 'multiply',
@@ -72,7 +72,7 @@ var layer_list = [
 	},
 	{
 		'image': mask,
-		'src': './images/layer_6_1.png',
+		'src': '9155EE24-1230-45FE-BFA3-4D5E187873F0.png',
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -80,7 +80,7 @@ var layer_list = [
 	},
 	{
 		'image': humans,
-		'src': './images/layer_7_1.png',
+		'src': 'F7B55A9F-5E94-4262-BF09-78C611F1DF84.png',
 		'z_index': 0.8,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -88,7 +88,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_3,
-		'src': './images/layer_8_1.png',
+		'src': '60A94F55-3F95-44FD-AE7B-B0CCE17D3DAA.png',
 		'z_index': 2,
 		'position': {x: 0, y: 0},
 		'blend': null,
