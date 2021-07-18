@@ -80,7 +80,7 @@ var layer_list = [
 	},
 	{
 		'image': humans,
-		'src': 'F7B55A9F-5E94-4262-BF09-78C611F1DF84.png
+		'src': 'F7B55A9F-5E94-4262-BF09-78C611F1DF84.png'
 
 ',
 		'z_index': 0.8,
