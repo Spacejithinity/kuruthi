@@ -51,7 +51,7 @@ var layer_list = [
 		'src': 'BC52452F-EF48-4222-82BA-9B5B4ACABDF5.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
-		'blend': 'overlay',
+		'blend': null,
 		'opacity': 1
 	},
 	{
@@ -59,7 +59,7 @@ var layer_list = [
 		'src': 'FAA3CB41-F916-4EBC-87EE-67872F3B1C14.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
-		'blend': 'overlay',
+		'blend': null,
 		'opacity': 1
 	},
 	{
@@ -67,7 +67,7 @@ var layer_list = [
 		'src': '527EE0A1-87FF-4F96-A317-9EF3ABC513A3.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
-		'blend': 'multiply',
+		'blend': null,
 		'opacity': 0.75
 	},
 	{
