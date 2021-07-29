@@ -18,8 +18,7 @@ var clouds = new Image();
 var floaties_1 = new Image();
 var floaties_2 = new Image();
 var mask = new Image();
-var humans = new Image();
-var floaties_3 = new Image();
+
 
 // Create a list of layer objects
 // Each object contains the following:
@@ -32,7 +31,7 @@ var floaties_3 = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': '7059F0E4-682B-4301-9CCA-40A436946D29.png',
+		'src': '8EC71D20-5F1C-4BA0-ADC1-3F97752DA078.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -40,7 +39,7 @@ var layer_list = [
 	},
 	{
 		'image': clouds,
-		'src': '8CE2BA8D-C223-4357-9C39-0648D6C26AC8.png',
+		'src': 'B68DAB3A-7C6C-4868-85A6-CCBB18A60A3E.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -48,7 +47,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': 'BC52452F-EF48-4222-82BA-9B5B4ACABDF5.png',
+		'src': '38EED24E-E9C0-477B-ADA0-88D1DBAE35E8.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -56,7 +55,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_2,
-		'src': 'FAA3CB41-F916-4EBC-87EE-67872F3B1C14.png',
+		'src': '2BC551A1-D332-4F42-A690-F1EF0308CA62.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -64,36 +63,21 @@ var layer_list = [
 	},
 	{
 		'image': shadows,
-		'src': '527EE0A1-87FF-4F96-A317-9EF3ABC513A3.png',
-		'z_index': -1.25,
+		'src': '353B147C-0CEE-4F1E-A1B8-8C0AEFBF9DA4.png',
+		'z_index': -1.75,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 0.75
 	},
 	{
 		'image': mask,
-		'src': '9155EE24-1230-45FE-BFA3-4D5E187873F0.png',
+		'src': '19FE79B3-3049-4B4A-B580-B2C4438E1231.png',
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
 	},
-	{
-		'image': humans,
-		'src': 'F7B55A9F-5E94-4262-BF09-78C611F1DF84.png',
-		'z_index': 0.8,
-		'position': {x: 0, y: 0},
-		'blend': null,
-		'opacity': 1
-	},
-	{
-		'image': floaties_3,
-		'src': '60A94F55-3F95-44FD-AE7B-B0CCE17D3DAA.png',
-		'z_index': 2,
-		'position': {x: 0, y: 0},
-		'blend': null,
-		'opacity': 0.9
-	}
+	
 ];
 
 
