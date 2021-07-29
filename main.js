@@ -48,7 +48,7 @@ var layer_list = [
 	{
 		'image': floaties_1,
 		'src': '38EED24E-E9C0-477B-ADA0-88D1DBAE35E8.png',
-		'z_index': -1.25,
+		'z_index': 2,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
@@ -56,7 +56,7 @@ var layer_list = [
 	{
 		'image': floaties_2,
 		'src': '2BC551A1-D332-4F42-A690-F1EF0308CA62.png',
-		'z_index': -0.5,
+		'z_index': 1.5,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
